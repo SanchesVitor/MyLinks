@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O MyLinks é um agregador de links para usar como cartão de visitar online.
 
-
+- [Visite o projeto online](https://sanchesvitor.github.io/MyLinks/)
 
 ## 🔖 Layout
 
